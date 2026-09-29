@@ -207,7 +207,7 @@ MemoryCleaner est un **gratuiciel**. Vous pouvez l'utiliser gratuitement et sans
 ## Liens
 
 - Site web : <https://kilho.net/memorycleaner>
-- Forum : <https://groups.google.com/g/kilhonet>
+- Forum : <https://kilho.top/forum/qna>
 - X (Twitter) : <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

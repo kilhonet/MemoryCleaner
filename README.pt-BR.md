@@ -209,7 +209,7 @@ O MemoryCleaner é **freeware**. Pode ser usado de graça e sem restrições em 
 ## Links
 
 - Site: <https://kilho.net/memorycleaner>
-- Fórum: <https://groups.google.com/g/kilhonet>
+- Fórum: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET

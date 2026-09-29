@@ -207,7 +207,7 @@ MemoryCleaner は **フリーウェア** です。会社、自宅、官公庁、
 ## リンク
 
 - ウェブサイト: <https://kilho.net/memorycleaner>
-- フォーラム: <https://groups.google.com/g/kilhonet>
+- フォーラム: <https://kilho.top/forum/qna>
 - X (Twitter): <https://www.twitter.com/kilhonet>
 
 © KILHO.NET
